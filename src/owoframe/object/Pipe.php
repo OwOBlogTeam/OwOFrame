@@ -22,7 +22,7 @@ namespace owoframe\object;
 
 
 /**
- * 使用责任链模式（Chain of Responsibility Pattern）在管道中的连续调用
+ * 使用责任链模式 (Chain of Responsibility Pattern) 在管道中的连续调用
  */
 class Pipe
 {
